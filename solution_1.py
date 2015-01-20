@@ -21,7 +21,12 @@ fib()
 
 
 
-    
+
+
+
+
+
+##a,b = b, a+b    
 ##    n = eval(input("What is the nth term?: "))
 ##n = (n-1) + (n-2)
 ##    for i in range(10):

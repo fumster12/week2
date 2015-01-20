@@ -2,7 +2,7 @@
 # by Funmi Dosunmu 1/20/15
 # Syracuse sequence
 
-def seq(x):
+def seq():
     x = eval(input("What is the starting number?: "))
     seq = [x]
     if x % 2 == 0: 

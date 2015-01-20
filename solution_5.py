@@ -3,12 +3,19 @@
 # Prime determination
 
 def main():
-    n = eval(input("Enter a whole number"))
-    prime = n > 2
+    n = int(input("Enter a whole number: "))
+    if n < 2:
+        break
+    if n > 2 and n % 2 ==0
+        break
+    if n > 2 and 
+        
+  
+            
     if n == prime:
         print("The whole number is a prime number")
     else:
-        print("The whole number is not a prime number")
+        break
 
 main()
 
